@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/Exit.png</file>
+    <file>Icons/MaxmumSize.png</file>
+    <file>Icons/MinmumSize.png</file>
+  </qresource>
+</RCC>

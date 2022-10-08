@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Icons/Layers.png</file>
+  </qresource>
+</RCC>
