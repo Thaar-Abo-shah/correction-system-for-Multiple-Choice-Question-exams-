@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Icons/1.png</file>
+    <file>Icons/2.png</file>
+    <file>Icons/3.png</file>
+  </qresource>
+</RCC>
