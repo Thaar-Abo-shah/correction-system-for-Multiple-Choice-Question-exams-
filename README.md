@@ -81,4 +81,4 @@ We can also save the file as excel or pdf or print the results.
 
 ## Author 
 
-[Thaar Abo Shah]([https://github.com/rebal221](https://github.com/Thaar-Abo-shah))
+[Thaar Abo Shah]([https://github.com/Thaar-Abo-shah])
