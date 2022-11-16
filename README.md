@@ -79,6 +79,7 @@ We can also save the file as excel or pdf or print the results.
 
 ![App Screenshot](https://github.com/Thaar-Abo-shah/correction-system-for-Multiple-Choice-Question-exams-/blob/main/screen/testing.jpg)
 
-## Author 
 
-[Thaar Abo Shah]([https://github.com/Thaar-Abo-shah])
+## Author
+
+- [Thaar Abo Shah](https://github.com/Thaar-Abo-shah)
